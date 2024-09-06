@@ -1,4 +1,4 @@
-Noi in acest proiect vom încarca și procesa o imagine folosind un API și vom afisa pe un canvas două versiuni:imaginea originala si cea oglindita
+In acest proiect vom încarca și procesa o imagine folosind un API și vom afisa pe un canvas două versiuni:imaginea originala si cea oglindita
 
 ##  Încărcarea imaginii:
 Funcția `loadImageFromJSON()` face o cerere către API-ul dog.ceo pentru a obține o imagine aleatorie cu un câine. Se folosește un timestamp pentru a preveni cache-ul.
